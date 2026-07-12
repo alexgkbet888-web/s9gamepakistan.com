@@ -1,0 +1,81 @@
+id,keyword,intent,priority,page_type,target_page,last_modified,source
+1,s9 game Pakistan,core,P1,homepage/pillar,/,2026-06-28,sop-full-audit
+2,s9 game rules,core,P1,homepage/pillar,/,2026-06-28,sop-full-audit
+3,s9 mines game rules Pakistan,long-tail,P1,supporting article,/blog/,2026-06-28,sop-full-audit
+4,s9 roulette rules Pakistan,long-tail,P1,supporting article,/blog/,2026-06-28,sop-full-audit
+5,s9 blackjack rules Pakistan,long-tail,P1,supporting article,/blog/,2026-06-28,sop-full-audit
+6,s9 Pakistan,brand,P1,homepage,/,2026-06-28,sop-full-audit
+7,S9 Game Pakistan Academy support,brand,P2,support,/support/,2026-06-28,sop-full-audit
+8,S9 Game Pakistan Academy FAQ,brand,P2,faq,/faq/,2026-06-28,sop-full-audit
+9,s9 game rules Pakistan,category,P1,hub/category,/game-rules/,2026-06-28,sop-full-audit
+10,s9 mines Pakistan,category,P1,hub/category,/mines/,2026-06-28,sop-full-audit
+11,s9 roulette Pakistan,category,P1,hub/category,/roulette/,2026-06-28,sop-full-audit
+12,s9 blackjack Pakistan,category,P1,hub/category,/blackjack/,2026-06-28,sop-full-audit
+13,s9 responsible access Pakistan,category,P1,hub/category,/responsible-access/,2026-06-28,sop-full-audit
+14,how to understand s9 game rules,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
+15,what are s9 mines game rules,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
+16,how roulette works in s9 game,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
+17,what should beginners check before playing s9,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
+18,how to compare skill and luck games safely,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
+19,s9 mines vs roulette,comparison,P2,comparison/article,/blog/,2026-06-28,sop-full-audit
+20,s9 blackjack vs ludo,comparison,P2,comparison/article,/blog/,2026-06-28,sop-full-audit
+21,s9 game rules vs super s9 game,comparison,P2,comparison/article,/blog/,2026-06-28,sop-full-audit
+22,s9 game Pakistan Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+23,s9 game Pakistan PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+24,s9 game Pakistan Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+25,s9 game Pakistan mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+26,s9 game Pakistan H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+27,s9 game Pakistan 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+28,s9 game Pakistan guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+29,s9 game Pakistan checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+30,s9 game Pakistan fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+31,s9 game Pakistan not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+32,s9 game Pakistan latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+33,s9 game Pakistan support,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+34,s9 game rules PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+35,s9 game rules Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+36,s9 game rules mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+37,s9 game rules H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+38,s9 game rules 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+39,s9 game rules guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+40,s9 game rules checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+41,s9 game rules fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+42,s9 game rules not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+43,s9 game rules latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+44,s9 game rules support,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+45,s9 mines game rules Pakistan Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+46,s9 mines game rules Pakistan PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+47,s9 mines game rules Pakistan Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+48,s9 mines game rules Pakistan mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+49,s9 mines game rules Pakistan H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+50,s9 mines game rules Pakistan 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+51,s9 mines game rules Pakistan guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+52,s9 mines game rules Pakistan checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+53,s9 mines game rules Pakistan fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+54,s9 mines game rules Pakistan not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+55,s9 mines game rules Pakistan latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+56,s9 mines game rules Pakistan support,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+57,s9 roulette rules Pakistan Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+58,s9 roulette rules Pakistan PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+59,s9 roulette rules Pakistan Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+60,s9 roulette rules Pakistan mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+61,s9 roulette rules Pakistan H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+62,s9 roulette rules Pakistan 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+63,s9 roulette rules Pakistan guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+64,s9 roulette rules Pakistan checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+65,s9 roulette rules Pakistan fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+66,s9 roulette rules Pakistan not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+67,s9 roulette rules Pakistan latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+68,s9 roulette rules Pakistan support,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+69,s9 blackjack rules Pakistan Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+70,s9 blackjack rules Pakistan PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+71,s9 blackjack rules Pakistan Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+72,s9 blackjack rules Pakistan mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+73,s9 blackjack rules Pakistan H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+74,s9 blackjack rules Pakistan 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+75,s9 blackjack rules Pakistan guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+76,s9 blackjack rules Pakistan checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+77,s9 blackjack rules Pakistan fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+78,s9 blackjack rules Pakistan not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+79,s9 blackjack rules Pakistan latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+80,s9 blackjack rules Pakistan support,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit

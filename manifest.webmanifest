@@ -1,0 +1,15 @@
+{
+  "name": "s9gamepakistan",
+  "short_name": "s9gamepakistan",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#111827",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

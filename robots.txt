@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+Sitemap: https://s9gamepakistan.com/sitemap.xml
+
+User-agent: *
+User-agent: *
+User-agent: *
+User-agent: *
+User-agent: *
+User-agent: *
+User-agent: *
+User-agent: *
+User-agent: *
+User-agent: *
+User-agent: *
+User-agent: *
+User-agent: *
+User-agent: *
